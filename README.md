@@ -1,2 +1,15 @@
-# pravin-cloud-journey
-Hands-on AWS projects demonstrating Python, S3, EC2, Lambda, and Cloud skills
+# Pravin's Cloud Journey 🚀
+
+This repository contains my AWS Cloud and Python learning progress, 
+notes, and hands-on project work including S3, EC2, Lambda, CloudFront, 
+and Python automation scripts.
+
+Projects:
+- CSV to S3 Uploader (Python + boto3)
+- Static Website Hosting on S3
+- EC2 Apache Web Server Deployment
+- AWS Lambda Automation with CloudWatch
+- Portfolio Website Deployment
+
+Stay tuned for my daily updates and progress! 💻☁️
+
