@@ -6,7 +6,7 @@ and Python automation scripts.
 
 Projects:
 - CSV to S3 Uploader (Python + boto3)
-- Static Website Hosting on S3
+- Serverless Feedback API (AWS Lambda + API Gateway)
 - EC2 Apache Web Server Deployment
 - AWS Lambda Automation with CloudWatch
 - Portfolio Website Deployment
